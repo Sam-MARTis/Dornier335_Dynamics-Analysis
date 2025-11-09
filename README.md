@@ -70,6 +70,7 @@ Credits for the model:
 - Wing Root Chord: 3.80 m
 - Wing Tip Chord: 1.90 m
 - Dihedral angle: 4.578°
+- Airfoil: root: NACA 23018-630; tip: NACA 23012-635
 ###### Ailerons
 - Root distance from center: 3.35 m
 - Tip distance from center: 6.31 m
@@ -84,6 +85,7 @@ Symmetric - 2 HTs
 - HT Semi-span: 2.6 m
 - HT Root Chord: 1.63 m
 - HT Tip Chord: 1.07 m
+- Area: 6.40
 ###### Elevator
 Symmetric - 2 elevators
 - Root distance from center: 0.30 m
