@@ -110,3 +110,7 @@ Symmetric - 2 rudders
 - Rudder root chord: 0.5 m
 - Rudder tip chord: 0.31 m 
 
+
+
+### Derivation for trim deflection
+![alt text](image.png)
