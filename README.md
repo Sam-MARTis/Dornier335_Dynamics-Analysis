@@ -50,11 +50,30 @@ Credits for the model:
 - VMO: Mach 0.85
 - Max speed: 763 km/h at 6,500 m
 - Landing speed: 180 km/h
-- Wing Semi-span: 6.9 m
-- Wing Root Chord: 
-- Wing Tip Chord; 
+#### Propellor
+##### Forward propellor:
+- Blade count: 3
+- Diameter: 3.60 m
+- Height: 0.7 m
 
+##### Aft propellor:
+- Blade count: 3
+- Diameter: 3.60 m
+- Height: 1.2 m
 #### Control surfaces
+
+##### Main Wing
+- Location: 8.095 m
+- Wing Semi-span: 6.90 m
+- Wing Root Chord: 3.80 m
+- Wing Tip Chord: 1.90 m
+###### Ailerons
+- Root distance from center: 3.35 m
+- Tip distance from center: 6.31 m
+- Root cchord: 0.51 m
+- Tip chord: 0.386 m
+  
+
 
 ##### Horizonatal Tail
 Symmetric - 2 HTs
