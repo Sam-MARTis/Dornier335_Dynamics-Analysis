@@ -16,7 +16,7 @@ Credits for the model:
 - Height of landing gear: 1.90 m
 - Height of CG = 0.9
 
-- Wing area(S): 38.5 m$^2$
+- Wing area(S): 38.5 m $^2$
 > - Max takeoff weight: 
 
 - Empty Weight: 7,400 kg
@@ -29,7 +29,7 @@ Credits for the model:
 - Max speed: 763 km/h at 6,500 m
 - Landing speed: 180 km/h
 #### Fuselage
-- Fuselage volume: 59.2 m$^3$
+- Fuselage volume: 59.2 m $^3$
 - Width: 1.18 m
 - Height: 1.87 m
 #### Engine/Powerplant
@@ -95,7 +95,8 @@ Symmetric - 2 elevators
 
 Symmetric - 2 VTs
 - VT location: 1.9 m
-- VT surface area = 3.56 m$^2$
+- VT height 1.95 m
+- VT surface area = 3.56 m $^2$
 - VT root chord = 1,703 m
 - VT tip chord = 0.702 m
 
