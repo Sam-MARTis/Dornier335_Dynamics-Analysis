@@ -113,4 +113,5 @@ Symmetric - 2 rudders
 
 
 ### Derivation for trim deflection
+Note, slight correction: αT = α + iT - ϵ - ϵα * α. In the picture I have missed the α
 ![alt text](image.png)
