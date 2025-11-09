@@ -38,6 +38,10 @@ Credits for the model:
          - Maximum 1,580 hp
          - WEP 1,750 hp
 
+- Aft engine height: 1.2 m
+- Forward engine height: 0.7 m 
+
+
 - Empty Weight: 7,400 kg
 - Normal Loaded: 9,610 kg
 - Service Ceiling: 11,400 m
@@ -50,17 +54,34 @@ Credits for the model:
 - Wing Root Chord: 
 - Wing Tip Chord; 
 
-**Control surfaces**
-- HT Semi-span: 
-- HT Location: 
-- HT Root Chord: 
-- HT Tip Chord: 
+#### Control surfaces
 
+##### Horizonatal Tail
+Symmetric - 2 HTs
+- HT Location: 2.04 m
+- HT Semi-span: 2.6 m
+- HT Root Chord: 1.63 m
+- HT Tip Chord: 1.07 m
+###### Elevator
+Symmetric - 2 elevators
+- Root distance from center: 0.30 m
+- Tip distance from center: 2.69 m
+- Root chord: 0.6 m
+- Tip chord: 0.37 m
+
+##### Vertical tail
+
+Symmetric - 2 VTs
 - VT location: 1.9 m
 - VT surface area = 3.56 m$^2$
 - VT root chord = 1,703 m
 - VT tip chord = 0.702 m
+
+
+###### Rudder
+Symmetric - 2 rudders
 - Top rudder vertical start positions: 1.6 m
 - Top rudder vertical end position: 2.8 m
 - Rudder root chord: 0.5 m
-- Rudder tip chors: 0.31 m 
+- Rudder tip chord: 0.31 m 
+
