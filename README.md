@@ -24,6 +24,7 @@ Credits for the model:
 - Service Ceiling: 11,400 m
 - Normal Range: 1,380 km
 - Cruise speed: 685 km/h at 7,200 m (Mach 0.61)
+- Economical cruise speed: 452 km/h at 6,000 m (Mach 0.37)
 - VMO: Mach 0.85
 - Max speed: 763 km/h at 6,500 m
 - Landing speed: 180 km/h
@@ -63,10 +64,12 @@ Credits for the model:
 #### Control surfaces
 
 ##### Main Wing
-- Location: 8.095 m
+- LocationX: 8.095 m
+- Height: 0.35 m
 - Wing Semi-span: 6.90 m
 - Wing Root Chord: 3.80 m
 - Wing Tip Chord: 1.90 m
+- Dihedral angle: 4.578°
 ###### Ailerons
 - Root distance from center: 3.35 m
 - Tip distance from center: 6.31 m
